@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "Node Projet",
+      "script": "pm2.js",
+      "instances": 4
+    }
+  ]
+}
